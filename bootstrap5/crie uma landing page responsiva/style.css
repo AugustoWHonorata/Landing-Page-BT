@@ -1,0 +1,24 @@
+.texto-menor{
+    font-size: 0.82em
+}
+
+.divs-facilidades{
+    width: 325px
+}
+.fundo-verde{
+    color: #DAFF01;
+}
+.botao-lilas{
+    background-color: #9353FF;
+}
+.posicao{
+    top: 40%;
+}
+.carouseltexto{
+    right: 0    ;
+}
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
